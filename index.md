@@ -1,5 +1,7 @@
 ---
 layout: default
 ---
-# {{site.title}}
-{{site.description}}
+# 2020 總結及 2021 計畫
+- 計畫 2021 Q1 實現 WMS 基礎版
+ - 模組化裝組
+ - 模組內可按規格配置及擴展
