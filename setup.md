@@ -1,7 +1,7 @@
-# Setup
+# 技術底層
 -------------------------
 
-## Personal page (`<username>.github.io`)
+## 使用 [NET 5](https://docs.microsoft.com/zh-tw/dotnet/)
 
 ### 1. Fork the repository
 Fork the repository from [here](https://github.com/kbsezginel/gh-pages-template) by clicking the fork button on the top right corner.
