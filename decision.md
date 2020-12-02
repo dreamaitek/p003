@@ -30,6 +30,11 @@ layout: default
 
 ## 權限平台
 - 是否有計畫升級權限平台的機制和功能?
+- NET 5 的標配
+  - 使用Identity Server,參考[微軟官網](https://docs.microsoft.com/zh-tw/aspnet/core/blazor/security/webassembly/hosted-with-identity-server?view=aspnetcore-5.0&tabs=visual-studio)
+  - Identity Server,參考[Identity Server 4 官網](https://identityserver4.readthedocs.io/en/latest/)
+
+
 
 ## WebPDA
 - 是否有計畫升級目前的安卓應用的技術框架?
