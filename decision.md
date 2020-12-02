@@ -5,6 +5,7 @@ layout: default
 
 ## 開發工具
 - 是否有計畫升級開發工具?
+  - 台北直接使用VS2019,SZ仍使用VS2012。
 
 ## 數據庫
 - (台北目前無此顧慮)
@@ -12,6 +13,8 @@ layout: default
 
 ## WMS頁面應用
 - 是否有計畫升級WMS頁面應用開發的底層框架?
+- 已知規格和限制
+  - 使用 WebForm, 參考微軟官網https://docs.microsoft.com/zh-tw/aspnet/web-forms/what-is-web-forms。
 
 ## 權限平台
 - 是否有計畫升級權限平台的機制和功能?
