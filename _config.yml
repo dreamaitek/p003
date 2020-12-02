@@ -12,6 +12,11 @@ navigation:
   
   - title: 計畫
     url: plan
+    
+  - title: 討論與決策
+    url: decision
+    
+    
  
   - title: 技術底層
     url: setup
