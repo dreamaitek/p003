@@ -38,6 +38,11 @@ layout: default
 
 ## WebPDA
 - 是否有計畫升級目前的安卓應用的技術框架?
+  - 是持續維持使用SZ的技術框架或是考慮啟用類似原生碼的開發模式?
+    - 掃瞄功能是一個考量
+    - 使用者友善介面是另一個考量
+    - 安卓 apk 的定位是另一個考量
+      - 面對TW客戶應考量安卓上架以顯示公司在這領域的專業定位。
 - 已知規格和限制
   - 使用 WebView, 參考[微軟官網](https://developer.android.com/reference/android/webkit/WebView)。
   - 可以快速使用現有WEBPDA部署的網站,好像是安卓手機或PDA的應用。
