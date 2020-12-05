@@ -16,6 +16,7 @@ layout: default
     - WMS 得以記錄並分析單一指令實際操作用時
   - 完成
   - 異常
+    - 是否要求 WMS 自動或是手工下達清除指令?
 - 庫存過賬時機，參考[MBALib](https://wiki.mbalib.com/zh-tw/%E5%BA%93%E5%AD%98%E4%BF%A1%E6%81%AF)
   - 人工或按WCS回報完成由系統自動過賬?
 
