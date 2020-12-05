@@ -13,8 +13,8 @@ navigation:
   - title: 計畫
     url: plan
     
-  - title: 主題
-    url: topics
+  - title: 規格
+    url: spec
     
   - title: 討論與決策
     url: decision
