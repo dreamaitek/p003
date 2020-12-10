@@ -28,4 +28,8 @@
   - WMS.Business 這時報錯      fix log4net
   - ExternalService  build時不報錯 to del Fakes folder  
 #### 3. change web.config for db and 權限平台 
+#### 4. debug to run on vs2019
+#### 5. 庫存調整時, 可以設為0, 但在[確認]時彈出錯誤信息
+  - 儲位[01-0102105]不能沒有庫存
+  - FrmSTOCK_ADJUSTLIst.aspx
 
