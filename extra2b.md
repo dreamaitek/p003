@@ -10,4 +10,6 @@
     
 ## Steps
   - 單頭列表 FrmSTOCK_ADJUSTList.aspx
+    - STOCK_CURRENT_ADJUST
   - 單身明細 FrmSTOCK_ADJUSTEdit.aspx
+    - STOCK_CURRENT_ADJUST_D
