@@ -21,17 +21,19 @@
 1. checkout svn latest 
 1. open solution to build
   - fix Newtonsoft
-    - ASRS.DAL
-    - ASRS.Repository
-    - ASRS.Business 這時報錯
+      - ASRS.DAL
+      - ASRS.Repository
+      - ASRS.Business 這時報錯
+  
   - fix log4net
     - WMS.DAL
     - WMS.Repository
     - WMS.Business 這時報錯
+  
   - fix Fakes
     - ExternalService  build時不報錯
       - to del Fakes folder
-    - WebWMS.Web debug 時出錯
+    
       
     
     
