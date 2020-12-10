@@ -31,5 +31,8 @@
 #### 4. debug to run on vs2019
 #### 5. 庫存調整時, 可以設為0, 但在[確認]時彈出錯誤信息
   - 儲位[01-0102105]不能沒有庫存
-  - FrmSTOCK_ADJUSTLIst.aspx
+  - FrmSTOCK_ADJUSTList.aspx
+  - btnConfirm_Click
+  - listQuery.CanStockDoAction(id, "1");
+  - SELECT dbo.Fun_IsAllowAction('{0}','{1}')", id, flag
 
