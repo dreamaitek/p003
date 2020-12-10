@@ -17,3 +17,10 @@
 
 2. 允許新加物料到指定儲位.
 
+
+### Steps
+
+1. checkout svn latest 
+
+1. open solution to build
+
