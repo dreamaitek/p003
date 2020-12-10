@@ -28,6 +28,12 @@
     - WMS.DAL
     - WMS.Repository
     - WMS.Business 這時報錯
+  - fix Fakes
+    - ExternalService  build時不報錯
+      - to del Fakes folder
+    - WebWMS.Web debug 時出錯
+      
+    
     
     
 1. change web.config for db and 權限平台 
