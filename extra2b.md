@@ -13,3 +13,6 @@
     - STOCK_CURRENT_ADJUST
   - 單身明細 FrmSTOCK_ADJUSTEdit.aspx
     - STOCK_CURRENT_ADJUST_D
+  - 使用現成的單身明細做為模板, 按給定信息加入一筆
+    - 可以[確認]
+    - [審核]時報錯: 库存调整单明细表中的储位跟库存表中的不一致！2-1
