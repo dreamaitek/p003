@@ -35,4 +35,5 @@
   - btnConfirm_Click
   - listQuery.CanStockDoAction(id, "1");
   - SELECT dbo.Fun_IsAllowAction('{0}','{1}')", id, flag
+  - [Fun_IsAllowAction](./Fun_IsAllowAction)
 
