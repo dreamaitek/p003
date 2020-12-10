@@ -21,5 +21,8 @@
 1. checkout svn latest 
 1. open solution to build
   - fix Newtonsoft
+    - ASRS.DAL
+    - ASRS.Repository
+    - ASRS.Business 這時報錯
 1. change web.config for db and 權限平台 
 
