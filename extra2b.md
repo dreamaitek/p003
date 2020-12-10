@@ -8,3 +8,6 @@
   - 直接以外掛方式插入一筆明細
     - 保持現有的[確認][審核]流程
     
+## Steps
+  - 單頭列表 FrmSTOCK_ADJUSTList.aspx
+  - 單身明細 FrmSTOCK_ADJUSTEdit.aspx
