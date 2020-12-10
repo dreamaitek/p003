@@ -20,18 +20,12 @@
 
 1. checkout svn latest 
 1. open solution to build
-
   - ASRS.DAL
   - ASRS.Repository
   - ASRS.Business 這時報錯     fix Newtonsoft
   - WMS.DAL
   - WMS.Repository
   - WMS.Business 這時報錯      fix log4net
-  - ExternalService  build時不報錯 to del Fakes folder
-    
-      
-    
-    
-    
+  - ExternalService  build時不報錯 to del Fakes folder  
 1. change web.config for db and 權限平台 
 
