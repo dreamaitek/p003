@@ -24,5 +24,11 @@
     - ASRS.DAL
     - ASRS.Repository
     - ASRS.Business 這時報錯
+  - fix log4net
+    - WMS.DAL
+    - WMS.Repository
+    - WMS.Business 這時報錯
+    
+    
 1. change web.config for db and 權限平台 
 
