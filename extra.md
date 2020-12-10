@@ -20,4 +20,5 @@
 
 1. checkout svn latest 
 1. open solution to build
+1. change web.config for db and 權限平台 
 
