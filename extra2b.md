@@ -20,3 +20,7 @@
   - 這是因為現有系統有去比對庫存信息
     - STOCK_CURRENT
     - STOCK_CURRENT_SN
+    
+-----
+
+<video src="assets/good1.mp4" controls="controls" width="100%" height="auto"/>
