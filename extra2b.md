@@ -23,6 +23,11 @@
     
   - 也就是說要針對加入的物料，也需要去維護上述的兩張表單。
 -----
-## 基本外掛的功能已實現
+## 基本外掛的核心功能已實現
 
 <video src="assets/good1.mp4" controls="controls" width="100%" height="auto"/>
+
+## 外掛 API 基本介紹
+
+<video src="assets/api1.mp4" controls="controls" width="100%" height="auto"/>
+
